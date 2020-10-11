@@ -34,6 +34,10 @@ body {
     color: var(--blue-color);
 }
 
+.logo .white {
+    color: var(--font-white);
+}
+
 .list {
     list-style: none;
 }
@@ -156,6 +160,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
+    font-style: normal;
 }
 
 .contacts .contacts-address {
